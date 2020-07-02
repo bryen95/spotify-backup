@@ -5,8 +5,8 @@ A Python script based on [spotify-backup](https://github.com/caseychu/spotify-ba
 
 ---
 
-When using CSV export, you will need to use a workaround when importing the data into Excel:
-(From [this](https://stackoverflow.com/questions/6002256/is-it-possible-to-force-excel-recognize-utf-8-csv-files-automatically) StackOverflow answer.)
+When using CSV export, you will need to use a workaround when importing the data into Excel
+(From [this](https://stackoverflow.com/questions/6002256/is-it-possible-to-force-excel-recognize-utf-8-csv-files-automatically) StackOverflow answer):
 
 1. Open Excel.
 2. Import the data using Data --> Import External Data --> Import Data.
